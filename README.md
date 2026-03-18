@@ -184,7 +184,6 @@ erDiagram
 | Flutter | 3.11.1+ | Mobile |
 | Dart | 3.11+ | Mobile |
 | Android SDK | - | Mobile (Android) |
-| Xcode | 15+ | Mobile (iOS) |
 
 ### FVM (Flutter Version Management)
 
